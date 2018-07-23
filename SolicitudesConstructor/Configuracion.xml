@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+
+  <NombreHojaExcel>Solicitudes</NombreHojaExcel>
+  <ColumnasExcel>
+    <Columna>CodigoOficinaCompleto</Columna>
+    <Columna>NombreOficinaRadicadora</Columna>
+    <Columna>NitConstrutor</Columna>
+    <Columna>NombreClienteConstructor</Columna>
+    <Columna>NombreProyecto</Columna>
+    <Columna>TipoProyecto</Columna>
+    <Columna>NoUnidad</Columna>
+    <Columna>ValorPromedioUnidad</Columna>
+    <Columna>Ciudad</Columna>
+    <Columna>Departamento</Columna>
+  </ColumnasExcel>
+</configuration>
